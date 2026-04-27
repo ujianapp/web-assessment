@@ -49,7 +49,7 @@ const Navbar = () => {
           <div className="bg-indigo-600 p-2 rounded-lg shadow-indigo-200 shadow-lg">
             <GraduationCap className="text-white" size={24} />
           </div>
-          <span className="font-display font-bold text-2xl tracking-tight text-indigo-900">EduAssess AI</span>
+          <span className="font-display font-bold text-2xl tracking-tight text-indigo-900">E-assessment AI</span>
         </div>
 
         {/* Desktop Menu */}
@@ -79,7 +79,7 @@ const Navbar = () => {
           <motion.a 
             whileHover={{ scale: 1.05, boxShadow: "0 0 20px rgba(79, 70, 229, 0.4)" }}
             whileTap={{ scale: 0.95 }}
-            href="https://wa.me/628568117553?text=Halo%20Tim%20EduAssess%20AI%2C%20saya%20tertarik%20untuk%20berkonsultasi%20mengenai%20solusi%20asesmen%20digital%20untuk%20sekolah%20kami.%20Mohon%20bantuan%20informasinya%20untuk%20langkah%20awal%20transformasi%20digital%20kami.%20Terima%20kasih."
+            href="https://wa.me/628568117553?text=Halo%20Tim%20E-assessment%20AI%2C%20saya%20tertarik%20untuk%20berkonsultasi%20mengenai%20solusi%20asesmen%20digital%20untuk%20sekolah%20kami.%20Mohon%20bantuan%20informasinya%20untuk%20langkah%20awal%20transformasi%20digital%20kami.%20Terima%20kasih."
             target="_blank"
             rel="noopener noreferrer"
             className="bg-indigo-600 text-white px-6 py-2.5 rounded-full font-semibold text-sm hover:bg-indigo-700 transition-all shadow-md shadow-indigo-100 flex items-center"
@@ -189,7 +189,7 @@ const Hero = () => (
           className="flex flex-col sm:flex-row items-center justify-center gap-6"
         >
           <a 
-            href="https://wa.me/628568117553?text=Halo%20Tim%20EduAssess%20AI%2C%20saya%20tertarik%20untuk%20berkonsultasi%20mengenai%20solusi%20asesmen%20digital%20untuk%20sekolah%20kami.%20Mohon%20bantuan%20informasinya%20untuk%20langkah%20awal%20transformasi%20digital%20kami.%20Terima%20kasih."
+            href="https://wa.me/628568117553?text=Halo%20Tim%20E-assessment%20AI%2C%20saya%20tertarik%20untuk%20berkonsultasi%20mengenai%20solusi%20asesmen%20digital%20untuk%20sekolah%20kami.%20Mohon%20bantuan%20informasinya%20untuk%20langkah%20awal%20transformasi%20digital%20kami.%20Terima%20kasih."
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto bg-indigo-600 text-white px-10 py-5 rounded-2xl font-bold text-lg hover:bg-indigo-500 transition-all shadow-2xl shadow-indigo-900/40 flex items-center justify-center gap-3 group"
@@ -242,7 +242,7 @@ const About = () => (
           <h4 className="text-indigo-600 font-bold uppercase tracking-widest text-xs mb-4">Tentang Produk</h4>
           <h2 className="font-display text-4xl font-bold mb-6 text-slate-900 leading-tight">Mitra Strategis <span className="font-serif italic font-medium text-slate-800">Transformasi Digital</span> Sekolah Anda</h2>
           <p className="text-lg text-slate-600 mb-6 leading-relaxed">
-            EduAssess AI dirancang untuk memecahkan dilema klasik dunia pendidikan: beban administrasi guru yang tinggi versus kebutuhan akan asesmen yang berkualitas.
+            E-assessment AI dirancang untuk memecahkan dilema klasik dunia pendidikan: beban administrasi guru yang tinggi versus kebutuhan akan asesmen yang berkualitas.
           </p>
           <ul className="space-y-4">
             {[
@@ -381,7 +381,7 @@ const Features = () => {
                 <p className="text-indigo-100 text-sm leading-relaxed mb-8">Dapatkan konsultasi gratis dengan konsultan teknologi pendidikan kami sekarang.</p>
               </div>
               <a 
-                href="https://wa.me/628568117553?text=Halo%20Tim%20EduAssess%20AI%2C%20kami%20ingin%20menjadwalkan%20demo%20eksklusif%20untuk%20sekolah/institusi%20kami.%20Mohon%20waktu%20dan%20ketersediaannya.%20Terima%20kasih."
+                href="https://wa.me/628568117553?text=Halo%20Tim%20E-assessment%20AI%2C%20kami%20ingin%20menjadwalkan%20demo%20eksklusif%20untuk%20sekolah/institusi%20kami.%20Mohon%20waktu%20dan%20ketersediaannya.%20Terima%20kasih."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="relative z-10 bg-white text-indigo-600 px-6 py-3 rounded-xl font-bold text-sm flex items-center justify-center gap-2 hover:bg-slate-50 transition-colors w-full shadow-lg"
@@ -573,7 +573,7 @@ const FeatureShowcase = () => {
               Demo Interaktif <span className="font-serif italic font-medium text-slate-800">Fitur Utama</span>
             </motion.h2>
             <p className="text-slate-500 text-lg max-w-2xl mx-auto leading-relaxed">
-              Lihat bagaimana EduAssess AI mentransformasi proses asesmen konvensional menjadi pengalaman digital yang intuitif.
+              Lihat bagaimana E-assessment AI mentransformasi proses asesmen konvensional menjadi pengalaman digital yang intuitif.
             </p>
           </div>
 
@@ -882,7 +882,7 @@ const Pricing = () => {
           >
             <div className="p-10 md:p-16 flex-grow">
               <h3 className="font-display font-bold text-3xl text-slate-900 mb-6">Paket Sekolah Inovatif</h3>
-              <p className="text-slate-500 mb-10 leading-relaxed">Akses penuh ke seluruh ekosistem EduAssess AI termasuk AI Question Generator, Live Quiz, Monitoring Real-time, dan Analisis Nilai.</p>
+              <p className="text-slate-500 mb-10 leading-relaxed">Akses penuh ke seluruh ekosistem E-assessment AI termasuk AI Question Generator, Live Quiz, Monitoring Real-time, dan Analisis Nilai.</p>
               
               <div className="space-y-4 mb-12">
                 {[
@@ -937,7 +937,7 @@ const Pricing = () => {
               <div className="text-slate-500 font-medium text-sm mb-10">/ per semester</div>
               
               <a 
-                href="https://wa.me/628568117553?text=Halo%20EduAssess%20AI%2C%20kami%20siap%20untuk%20melakukan%20integrasi%20sistem%20asesmen%20digital%20di%20sekolah%20kami%20dengan%20paket%20Rp.4000/siswa.%20Mohon%20panduannya.%20Terima%20kasih."
+                href="https://wa.me/628568117553?text=Halo%20E-assessment%20AI%2C%20kami%20siap%20untuk%20melakukan%20integrasi%20sistem%20asesmen%20digital%20di%20sekolah%20kami%20dengan%20paket%20Rp.4000/siswa.%20Mohon%20panduannya.%20Terima%20kasih."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full bg-indigo-600 text-white py-5 rounded-2xl font-bold text-lg hover:bg-indigo-700 transition-all shadow-xl shadow-indigo-100 mb-6 group/btn block text-center"
@@ -1007,7 +1007,7 @@ const Footer = () => (
             <div className="bg-indigo-600 p-1.5 rounded-lg text-white">
               <GraduationCap size={20} />
             </div>
-            <span className="font-display font-bold text-xl tracking-tight text-indigo-900">EduAssess AI</span>
+            <span className="font-display font-bold text-xl tracking-tight text-indigo-900">E-assessment AI</span>
           </div>
           <p className="text-slate-500 text-sm leading-relaxed">
             Platform modern untuk mendukung terwujudnya digitalisasi pendidikan Indonesia yang berkualitas, adil, dan transparan melalui teknologi kecerdasan buatan.
@@ -1051,7 +1051,7 @@ const Footer = () => (
       </div>
       
       <div className="pt-8 border-t border-slate-200 flex flex-col md:flex-row justify-between items-center text-slate-400 text-xs gap-4">
-        <p>&copy; {new Date().getFullYear()} EduAssess AI - PT Inovasi Pendidikan Bangsa. Semua Hak Dilindungi.</p>
+        <p>&copy; {new Date().getFullYear()} E-assessment AI - PT Inovasi Pendidikan Bangsa. Semua Hak Dilindungi.</p>
         <div className="flex gap-6">
           <a href="#" className="hover:text-slate-600">Kebijakan Privasi</a>
           <a href="#" className="hover:text-slate-600">Cookie Policy</a>
@@ -1119,28 +1119,6 @@ export default function App() {
       <main>
         <Hero />
         
-        {/* Trust Bar */}
-        <section className="bg-slate-100/50 py-10 border-b border-slate-200">
-          <div className="max-w-7xl mx-auto px-16 flex items-center justify-between flex-wrap gap-8">
-            <span className="text-[10px] font-bold text-slate-400 uppercase tracking-[0.2em]">Dipercaya Oleh Institusi</span>
-            <motion.div 
-              initial={{ opacity: 0 }}
-              whileInView={{ opacity: 1 }}
-              transition={{ duration: 1 }}
-              viewport={{ once: true }}
-              className="flex gap-12 opacity-50 grayscale contrast-125 items-center"
-            >
-               <span className="text-sm font-bold text-slate-700 font-serif italic">SMP Harapan Jaya</span>
-               <span className="text-sm font-bold text-slate-700 font-serif italic">MA Al-Ikhlas</span>
-               <span className="text-sm font-bold text-slate-700 font-serif italic">SMK Bina Bangsa</span>
-            </motion.div>
-            <div className="flex gap-3">
-               <button className="px-4 py-2 bg-white border border-slate-300 rounded-md text-[10px] font-bold uppercase tracking-wider text-slate-600 hover:bg-slate-50 shadow-sm transition-colors">Panduan</button>
-               <button className="px-4 py-2 bg-indigo-600 text-white rounded-md text-[10px] font-bold uppercase tracking-wider shadow-md hover:bg-indigo-700 transition-all">Mulai Sekarang</button>
-            </div>
-          </div>
-        </section>
-
         <About />
         <Features />
         <FeatureShowcase />
